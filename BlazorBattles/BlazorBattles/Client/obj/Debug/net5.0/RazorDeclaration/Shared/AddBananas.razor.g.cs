@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace BlazorBattles.Client.Pages
+namespace BlazorBattles.Client.Shared
 {
     #line hidden
     using System;
@@ -82,14 +82,26 @@ using BlazorBattles.Client.Shared;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/counter")]
-    public partial class Counter : Microsoft.AspNetCore.Components.ComponentBase
+    public partial class AddBananas : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 3 "C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\blazorbattles\Client\Shared\AddBananas.razor"
+       
+    [Parameter] public EventCallback<int> BananasAdded { get; set; }
+
+    public async Task IncreaseBananaCount()
+    {
+        await BananasAdded.InvokeAsync(10);
+    }
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591

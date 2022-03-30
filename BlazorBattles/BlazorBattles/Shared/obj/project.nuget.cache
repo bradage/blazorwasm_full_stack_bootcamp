@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PMNkvfgU068bkEanoaSZUzFiNis5ziQ1Gt3QyzwVcBbca0PcPBcbqicx4uLq4JWk0h8IU4UIAIuGLpjofJY+6w==",
+  "dgSpecHash": "pp/B10DSh44ijfw1vFfG2r3AxusFMylHFCS71LJ9MKyzEhqtZmJZz3FERg18DK4wgPn7TE5m2PLAcLK0hxeJnw==",
   "success": true,
-  "projectFilePath": "C:\\mygit\\blazorwasm_full_stack_bootcamp\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj",
+  "projectFilePath": "C:\\mygit\\blazorwasm_full_stack_bootcamp\\BlazorBattles\\blazorbattles\\Shared\\BlazorBattles.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

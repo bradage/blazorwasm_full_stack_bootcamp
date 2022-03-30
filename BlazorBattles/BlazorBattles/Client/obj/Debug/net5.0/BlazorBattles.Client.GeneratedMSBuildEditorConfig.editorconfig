@@ -10,4 +10,4 @@ build_property.EnableSingleFileAnalyzer =
 build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = BlazorBattles.Client
-build_property.ProjectDir = C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\
+build_property.ProjectDir = C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\blazorbattles\Client\

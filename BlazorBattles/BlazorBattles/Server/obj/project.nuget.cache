@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZJ0T6dVi1UUTfl5nvow3Mmm/2Uh4Ueo2CYTih+GHNj2MZDv3Zo+FQTK3pmDvSLIIe2x2lez6ppNF7ycY5ZL8zA==",
+  "dgSpecHash": "o/x8sVE3t9PUAlSs5qh2iJC5A5q9YNR0Xk9Cic/UL6IqJbblQm0NtYdX1snnxnhVcp1QaV/MBNWoyfdxvWxRAg==",
   "success": true,
-  "projectFilePath": "C:\\mygit\\blazorwasm_full_stack_bootcamp\\BlazorBattles\\BlazorBattles\\Server\\BlazorBattles.Server.csproj",
+  "projectFilePath": "C:\\mygit\\blazorwasm_full_stack_bootcamp\\BlazorBattles\\blazorbattles\\server\\BlazorBattles.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brada\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.15\\microsoft.aspnetcore.authorization.5.0.15.nupkg.sha512",
     "C:\\Users\\brada\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.15\\microsoft.aspnetcore.components.5.0.15.nupkg.sha512",
