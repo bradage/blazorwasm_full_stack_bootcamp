@@ -620,8 +620,6 @@ C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\D
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\build-gz\8glVJuEl.gz
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\build-gz\qj2VZVz+.gz
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\build-gz\S0w4oITZ.gz
-C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\build-gz\5YwIlT+R.gz
-C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\build-gz\B2MYlnqr.gz
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\scopedcss\bundle\BlazorBattles.Client.styles.css
@@ -634,3 +632,8 @@ C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\D
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\refint\BlazorBattles.Client.dll
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\BlazorBattles.Client.pdb
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\ref\BlazorBattles.Client.dll
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\blazorbattles\Client\obj\Debug\net5.0\RazorDeclaration\Shared\TopMenu.razor.g.cs
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\blazorbattles\Client\obj\Debug\net5.0\Razor\Shared\TopMenu.razor.g.cs
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\blazorbattles\Client\obj\Debug\net5.0\scopedcss\Shared\TopMenu.razor.rz.scp.css
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\build-gz\5YwIlT+R.gz
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\build-gz\B2MYlnqr.gz
