@@ -637,5 +637,7 @@ C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\blazorbattles\Client\obj\D
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\blazorbattles\Client\obj\Debug\net5.0\scopedcss\Shared\TopMenu.razor.rz.scp.css
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\RazorDeclaration\Shared\AddBananas.razor.g.cs
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\Razor\Shared\AddBananas.razor.g.cs
-C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\blazorbattles\Client\obj\Debug\net5.0\build-gz\5G8MjKI+.gz
-C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\blazorbattles\Client\obj\Debug\net5.0\build-gz\Tpx+zRxm.gz
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\blazorbattles\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Build.razor.g.cs
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\blazorbattles\Client\obj\Debug\net5.0\Razor\Pages\Build.razor.g.cs
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\build-gz\5YwIlT+R.gz
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\build-gz\B2MYlnqr.gz

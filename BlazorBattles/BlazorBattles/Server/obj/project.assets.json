@@ -879,11 +879,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\mygit\\blazorwasm_full_stack_bootcamp\\BlazorBattles\\blazorbattles\\server\\BlazorBattles.Server.csproj",
+      "projectUniqueName": "C:\\mygit\\blazorwasm_full_stack_bootcamp\\BlazorBattles\\BlazorBattles\\Server\\BlazorBattles.Server.csproj",
       "projectName": "BlazorBattles.Server",
-      "projectPath": "C:\\mygit\\blazorwasm_full_stack_bootcamp\\BlazorBattles\\blazorbattles\\server\\BlazorBattles.Server.csproj",
+      "projectPath": "C:\\mygit\\blazorwasm_full_stack_bootcamp\\BlazorBattles\\BlazorBattles\\Server\\BlazorBattles.Server.csproj",
       "packagesPath": "C:\\Users\\brada\\.nuget\\packages\\",
-      "outputPath": "C:\\mygit\\blazorwasm_full_stack_bootcamp\\BlazorBattles\\blazorbattles\\server\\obj\\",
+      "outputPath": "C:\\mygit\\blazorwasm_full_stack_bootcamp\\BlazorBattles\\BlazorBattles\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brada\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -900,11 +900,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\mygit\\blazorwasm_full_stack_bootcamp\\BlazorBattles\\blazorbattles\\Client\\BlazorBattles.Client.csproj": {
-              "projectPath": "C:\\mygit\\blazorwasm_full_stack_bootcamp\\BlazorBattles\\blazorbattles\\Client\\BlazorBattles.Client.csproj"
+            "C:\\mygit\\blazorwasm_full_stack_bootcamp\\BlazorBattles\\BlazorBattles\\Client\\BlazorBattles.Client.csproj": {
+              "projectPath": "C:\\mygit\\blazorwasm_full_stack_bootcamp\\BlazorBattles\\BlazorBattles\\Client\\BlazorBattles.Client.csproj"
             },
-            "C:\\mygit\\blazorwasm_full_stack_bootcamp\\BlazorBattles\\blazorbattles\\Shared\\BlazorBattles.Shared.csproj": {
-              "projectPath": "C:\\mygit\\blazorwasm_full_stack_bootcamp\\BlazorBattles\\blazorbattles\\Shared\\BlazorBattles.Shared.csproj"
+            "C:\\mygit\\blazorwasm_full_stack_bootcamp\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj": {
+              "projectPath": "C:\\mygit\\blazorwasm_full_stack_bootcamp\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj"
             }
           }
         }
