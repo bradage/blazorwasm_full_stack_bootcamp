@@ -1,0 +1,12 @@
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Shared\bin\Debug\net5.0\BlazorBattles.Shared.deps.json
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Shared\bin\Debug\net5.0\BlazorBattles.Shared.dll
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Shared\bin\Debug\net5.0\BlazorBattles.Shared.pdb
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Shared\obj\Debug\net5.0\BlazorBattles.Shared.csproj.AssemblyReference.cache
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Shared\obj\Debug\net5.0\BlazorBattles.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Shared\obj\Debug\net5.0\BlazorBattles.Shared.AssemblyInfoInputs.cache
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Shared\obj\Debug\net5.0\BlazorBattles.Shared.AssemblyInfo.cs
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Shared\obj\Debug\net5.0\BlazorBattles.Shared.csproj.CoreCompileInputs.cache
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Shared\obj\Debug\net5.0\BlazorBattles.Shared.dll
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Shared\obj\Debug\net5.0\refint\BlazorBattles.Shared.dll
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Shared\obj\Debug\net5.0\BlazorBattles.Shared.pdb
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Shared\obj\Debug\net5.0\ref\BlazorBattles.Shared.dll
