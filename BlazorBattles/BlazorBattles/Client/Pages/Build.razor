@@ -1,6 +1,7 @@
 ﻿@page "/build"
 @inject IBananaService BananaService
 @inject IUnitService UnitService
+@inject IToastService ToastService
 
 <h3>Build</h3>
 
@@ -16,9 +17,10 @@
 <button class="btn btn-primary" @onclick="BuildUnit">Build</button>
 @if (needMoreBananas)
 {
-    <div class="validation-message">
+    @*<div class="validation-message">
         Not enough bananas! :(
-    </div>
+        </div>*@
+
 }
 
 @code {
@@ -32,6 +34,7 @@
         if (BananaService.Bananas < selectedUnit.BananaCost)
         {
             needMoreBananas = true;
+            ToastService.ShowError("Not enough bananas!", ":(");
             return;
         }
 

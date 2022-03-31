@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fAM15YAHqwxKx4SJRStacoZ7P7FV0SzkWIDvDq1RfMySSszv2weVHdhT6aqNdeaADNFTBaJi3A2xx/Pj8ysDMw==",
+  "dgSpecHash": "VHxS1c9FjskW4NXmXbrDmW6u7bqMxgfPXF0RohEP/rR+A6/dTYyHoB2+9kyq4hwDhkvcQH+ffOJuWkjvJMSpbw==",
   "success": true,
   "projectFilePath": "C:\\mygit\\blazorwasm_full_stack_bootcamp\\BlazorBattles\\BlazorBattles\\Client\\BlazorBattles.Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\brada\\.nuget\\packages\\blazored.toast\\3.2.2\\blazored.toast.3.2.2.nupkg.sha512",
     "C:\\Users\\brada\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.15\\microsoft.aspnetcore.authorization.5.0.15.nupkg.sha512",
     "C:\\Users\\brada\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.15\\microsoft.aspnetcore.components.5.0.15.nupkg.sha512",
     "C:\\Users\\brada\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\5.0.15\\microsoft.aspnetcore.components.analyzers.5.0.15.nupkg.sha512",

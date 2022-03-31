@@ -58,3 +58,4 @@ C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Server\obj\D
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Server\obj\Debug\net5.0\BlazorBattles.Server.pdb
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Server\obj\Debug\net5.0\BlazorBattles.Server.genruntimeconfig.cache
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Server\obj\Debug\net5.0\ref\BlazorBattles.Server.dll
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Server\bin\Debug\net5.0\Blazored.Toast.dll
