@@ -98,13 +98,23 @@ using BlazorBattles.Client.Services;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 18 "C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\Pages\Build.razor"
+#line 24 "C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\Pages\Build.razor"
        
     int selectedUnitId = 1;
+    bool needMoreBananas = false;
 
     public void BuildUnit()
     {
         var selectedUnit = UnitService.Units.FirstOrDefault(unit => unit.Id == selectedUnitId);
+
+        if (BananaService.Bananas < selectedUnit.BananaCost)
+        {
+            needMoreBananas = true;
+            return;
+        }
+
+        needMoreBananas = false;
+
         BananaService.EatBananas(selectedUnit.BananaCost);
         UnitService.AddUnit(selectedUnitId);
     }
