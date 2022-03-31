@@ -1,5 +1,4 @@
 ﻿using BlazorBattles.Shared;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -20,9 +19,6 @@ namespace BlazorBattles.Client.Services
         {
             var unit = Units.First(unit => unit.Id == unitId);
             MyUnits.Add(new UserUnit { UnitId = unit.Id, HitPoints = unit.HitPoints });
-
-            Console.WriteLine($"{unit.Title} was built!");
-            Console.WriteLine($"Your army siz: {MyUnits.Count}");
         }
     }
 }
