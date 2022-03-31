@@ -98,16 +98,21 @@ using BlazorBattles.Client.Services;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 8 "C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\Pages\Build.razor"
+#line 18 "C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\Pages\Build.razor"
        
-    private void EatBananas(int amount)
+    int selectedUnitId = 1;
+
+    public void BuildUnit()
     {
-        BananaService.EatBananas(amount);
+        var selectedUnit = UnitService.Units.FirstOrDefault(unit => unit.Id == selectedUnitId);
+        BananaService.EatBananas(selectedUnit.BananaCost);
+        UnitService.AddUnit(selectedUnitId);
     }
 
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private IUnitService UnitService { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private IBananaService BananaService { get; set; }
     }
 }
