@@ -646,3 +646,5 @@ C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\D
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\bin\Debug\net5.0\wwwroot\_framework\Blazored.Toast.dll.gz
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\bin\Debug\net5.0\wwwroot\_framework\Blazored.Toast.dll
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\build-gz\fkqVr7VM.gz
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Login.razor.g.cs
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\Razor\Pages\Login.razor.g.cs

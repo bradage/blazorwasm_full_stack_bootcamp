@@ -103,6 +103,13 @@ using Blazored.Toast.Services;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 14 "C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\_Imports.razor"
+using BlazorBattles.Shared;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/build")]
     public partial class Build : Microsoft.AspNetCore.Components.ComponentBase
     {
