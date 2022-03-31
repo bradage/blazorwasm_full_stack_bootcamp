@@ -99,9 +99,6 @@ using BlazorBattles.Client.Services;
 #nullable restore
 #line 13 "C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\Shared\TopMenu.razor"
        
-    [Parameter]
-    public int Bananas { get; set; } = 100;
-
     protected override void OnInitialized()
     {
         BananaService.OnChange += StateHasChanged;
@@ -111,12 +108,6 @@ using BlazorBattles.Client.Services;
     {
         BananaService.OnChange -= StateHasChanged;
     }
-
-    public void AddBananas(int value)
-    {
-        Bananas += value;
-    }
-
 
 #line default
 #line hidden
