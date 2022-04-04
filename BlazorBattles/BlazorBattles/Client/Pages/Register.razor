@@ -6,17 +6,17 @@
 <EditForm Model="user" OnValidSubmit="HandleRegistration">
     <DataAnnotationsValidator />
     <div class="form-group">
-        <label for="email">Email</label>
+        <label class="required" for="email">Email</label>
         <InputText id="email" @bind-Value="user.Email" class="form-control"></InputText>
         <ValidationMessage For="@(() => user.Email)" />
     </div>
     <div class="form-group">
-        <label for="username">Username</label>
+        <label class="required" for="username">Username</label>
         <InputText id="username" @bind-Value="user.Username" class="form-control"></InputText>
         <ValidationMessage For="@(() => user.Username)" />
     </div>
     <div class="form-group">
-        <label for="password">Password</label>
+        <label class="required" for="password">Password</label>
         <InputText id="password" @bind-Value="user.Password" class="form-control" type="password"></InputText>
         <ValidationMessage For="@(() => user.Password)" />
     </div>
