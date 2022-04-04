@@ -198,14 +198,14 @@
       "netstandard.dll": "sha256-qE0Q70OyVlHYY\/Y3nwMjfh+zissea9uhfvWMvPWfI7w=",
       "System.Private.CoreLib.dll": "sha256-pdkcl2+OojCfrhxX5eFmKI30wAmhL6s+sCLp7s175k0=",
       "BlazorBattles.Shared.dll": "sha256-3OM8ZL2raomLn4i1+kJRofLWUkxAwfY+B+GXSgNRwvA=",
-      "BlazorBattles.Client.dll": "sha256-OMuZPkURShkiefg7dxCg9Lq2bpeKtP3Fgp7l2JrLQt4="
+      "BlazorBattles.Client.dll": "sha256-T\/4pn0KXQC8xlQkv+Q+35aAPIjnH4Kzk\/6tD17ZyOHY="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "BlazorBattles.Shared.pdb": "sha256-KDz0sh7sFpry7AWRfRYQivtEJHOs+zuu+kIGtYhtpG8=",
-      "BlazorBattles.Client.pdb": "sha256-N8zta6aWqz5iichi\/74XYzeJrLgodw\/ybkRIDsb453M="
+      "BlazorBattles.Client.pdb": "sha256-YIjeUjeVQ1PvClUO2w8Phcg7F7PFFrHSEqupT0yV7Uk="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-ootDKSA6cNAbgJLmPhrHsPVvVqkGEYdRZxucC22LWjw=",
