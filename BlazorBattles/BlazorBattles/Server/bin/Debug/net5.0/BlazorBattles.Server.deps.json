@@ -43,7 +43,6 @@
           "Microsoft.AspNetCore.Authentication": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.OAuth": "5.0.0.0",
           "Microsoft.AspNetCore.Authorization.Policy": "5.0.0.0",
-          "Microsoft.AspNetCore.Components.Authorization": "5.0.0.0",
           "Microsoft.AspNetCore.Components.Server": "5.0.0.0",
           "Microsoft.AspNetCore.Connections.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.CookiePolicy": "5.0.0.0",
@@ -367,6 +366,21 @@
         }
       },
       "Microsoft.AspNetCore.Components.Analyzers/5.0.15": {},
+      "Microsoft.AspNetCore.Components.Authorization/5.0.15": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Authorization": "5.0.15",
+          "Microsoft.AspNetCore.Components": "5.0.15"
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.AspNetCore.Components.Authorization.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.1522.11616"
+          }
+        },
+        "compile": {
+          "lib/net5.0/Microsoft.AspNetCore.Components.Authorization.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Components.Forms/5.0.15": {
         "dependencies": {
           "Microsoft.AspNetCore.Components": "5.0.15"
@@ -557,6 +571,7 @@
         "dependencies": {
           "BlazorBattles.Shared": "1.0.0",
           "Blazored.Toast": "3.2.2",
+          "Microsoft.AspNetCore.Components.Authorization": "5.0.15",
           "Microsoft.AspNetCore.Components.WebAssembly": "5.0.15",
           "System.Net.Http.Json": "5.0.0"
         },
@@ -614,12 +629,6 @@
       "Microsoft.AspNetCore.Authorization.Policy/5.0.0.0": {
         "compile": {
           "Microsoft.AspNetCore.Authorization.Policy.dll": {}
-        },
-        "compileOnly": true
-      },
-      "Microsoft.AspNetCore.Components.Authorization/5.0.0.0": {
-        "compile": {
-          "Microsoft.AspNetCore.Components.Authorization.dll": {}
         },
         "compileOnly": true
       },
@@ -2261,6 +2270,13 @@
       "path": "microsoft.aspnetcore.components.analyzers/5.0.15",
       "hashPath": "microsoft.aspnetcore.components.analyzers.5.0.15.nupkg.sha512"
     },
+    "Microsoft.AspNetCore.Components.Authorization/5.0.15": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gUrv2jKxqPK8cWsTyLZ9TQZ2GJNnHh0+12q5L6X6n7I8slQFpRYD68/qW1kPYzUgjYdyLYFQXtlJFtH5RlHRCw==",
+      "path": "microsoft.aspnetcore.components.authorization/5.0.15",
+      "hashPath": "microsoft.aspnetcore.components.authorization.5.0.15.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.Components.Forms/5.0.15": {
       "type": "package",
       "serviceable": true,
@@ -2463,11 +2479,6 @@
       "sha512": ""
     },
     "Microsoft.AspNetCore.Authorization.Policy/5.0.0.0": {
-      "type": "referenceassembly",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Microsoft.AspNetCore.Components.Authorization/5.0.0.0": {
       "type": "referenceassembly",
       "serviceable": false,
       "sha512": ""

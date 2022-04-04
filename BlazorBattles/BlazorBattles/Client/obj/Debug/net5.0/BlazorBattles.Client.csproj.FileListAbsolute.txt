@@ -651,3 +651,6 @@ C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\D
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Register.razor.g.cs
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\Razor\Pages\Register.razor.g.cs
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\scopedcss\Pages\Register.razor.rz.scp.css
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll.gz
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\obj\Debug\net5.0\build-gz\sPa9U3DC.gz
