@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VHxS1c9FjskW4NXmXbrDmW6u7bqMxgfPXF0RohEP/rR+A6/dTYyHoB2+9kyq4hwDhkvcQH+ffOJuWkjvJMSpbw==",
+  "dgSpecHash": "nduijlBc/cAvy+PCDLIrTkSaR7pbR1nB+xyH6xsNgxfBj5z+K941RfBkxA8V2Ejs8f9QTlPXywHl2APghZWR2Q==",
   "success": true,
   "projectFilePath": "C:\\mygit\\blazorwasm_full_stack_bootcamp\\BlazorBattles\\BlazorBattles\\Client\\BlazorBattles.Client.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\brada\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.15\\microsoft.aspnetcore.authorization.5.0.15.nupkg.sha512",
     "C:\\Users\\brada\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.15\\microsoft.aspnetcore.components.5.0.15.nupkg.sha512",
     "C:\\Users\\brada\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\5.0.15\\microsoft.aspnetcore.components.analyzers.5.0.15.nupkg.sha512",
+    "C:\\Users\\brada\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\5.0.15\\microsoft.aspnetcore.components.authorization.5.0.15.nupkg.sha512",
     "C:\\Users\\brada\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\5.0.15\\microsoft.aspnetcore.components.forms.5.0.15.nupkg.sha512",
     "C:\\Users\\brada\\.nuget\\packages\\microsoft.aspnetcore.components.web\\5.0.15\\microsoft.aspnetcore.components.web.5.0.15.nupkg.sha512",
     "C:\\Users\\brada\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\5.0.15\\microsoft.aspnetcore.components.webassembly.5.0.15.nupkg.sha512",
