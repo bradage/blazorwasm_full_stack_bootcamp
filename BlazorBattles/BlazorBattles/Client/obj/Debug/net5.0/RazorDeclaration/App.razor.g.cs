@@ -76,13 +76,6 @@ using BlazorBattles.Client;
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\_Imports.razor"
-using BlazorBattles.Client.Shared;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
 #line 11 "C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\_Imports.razor"
 using BlazorBattles.Client.Services;
 
@@ -120,6 +113,20 @@ using Microsoft.AspNetCore.Components.Authorization;
 #nullable restore
 #line 16 "C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\_Imports.razor"
 using Microsoft.AspNetCore.Authorization;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 17 "C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\_Imports.razor"
+using Blazored.LocalStorage;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 1 "C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Client\App.razor"
+using BlazorBattles.Client.Shared;
 
 #line default
 #line hidden
