@@ -21,7 +21,7 @@ namespace BlazorBattles.Client.Shared
 
         private async void Logout()
         {
-            await LocalStorage.RemoveItemAsync("isAuthenitcated");
+            await LocalStorage.RemoveItemAsync("authToken");
             await AuthStateProvider.GetAuthenticationStateAsync();
             NavigationManager.NavigateTo("/");
         }
