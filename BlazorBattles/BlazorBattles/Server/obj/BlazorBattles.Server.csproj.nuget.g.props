@@ -17,7 +17,6 @@
     <Import Project="$(NuGetPackageRoot)blazored.toast\3.2.2\buildTransitive\Blazored.Toast.props" Condition="Exists('$(NuGetPackageRoot)blazored.toast\3.2.2\buildTransitive\Blazored.Toast.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\brada\.nuget\packages\newtonsoft.json\10.0.1</PkgNewtonsoft_Json>
     <PkgMicrosoft_AspNetCore_Components_WebAssembly_Server Condition=" '$(PkgMicrosoft_AspNetCore_Components_WebAssembly_Server)' == '' ">C:\Users\brada\.nuget\packages\microsoft.aspnetcore.components.webassembly.server\5.0.0</PkgMicrosoft_AspNetCore_Components_WebAssembly_Server>
     <PkgEntityFramework Condition=" '$(PkgEntityFramework)' == '' ">C:\Users\brada\.nuget\packages\entityframework\5.0.0</PkgEntityFramework>
   </PropertyGroup>

@@ -46,7 +46,6 @@ C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Server\bin\D
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
-C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
@@ -92,3 +91,4 @@ C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Server\obj\D
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Server\obj\Debug\net5.0\BlazorBattles.Server.pdb
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Server\obj\Debug\net5.0\BlazorBattles.Server.genruntimeconfig.cache
 C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Server\obj\Debug\net5.0\ref\BlazorBattles.Server.dll
+C:\mygit\blazorwasm_full_stack_bootcamp\BlazorBattles\BlazorBattles\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
