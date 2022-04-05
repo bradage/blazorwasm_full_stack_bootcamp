@@ -52,6 +52,10 @@
               "target": "Package",
               "version": "[3.2.2, )"
             },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Microsoft.AspNetCore.Components.Authorization": {
               "target": "Package",
               "version": "[5.0.15, )"
@@ -143,9 +147,23 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
-              "version": "[5.0.15, )"
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
@@ -205,6 +223,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

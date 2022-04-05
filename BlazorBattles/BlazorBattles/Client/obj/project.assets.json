@@ -34,6 +34,15 @@
           "buildMultiTargeting/Blazored.Toast.props": {}
         }
       },
+      "EntityFramework/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/5.0.15": {
         "type": "package",
         "dependencies": {
@@ -354,6 +363,9 @@
       "BlazorBattles.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "EntityFramework": "5.0.0"
+        },
         "compile": {
           "bin/placeholder/BlazorBattles.Shared.dll": {}
         },
@@ -395,6 +407,15 @@
           "buildMultiTargeting/Blazored.Toast.props": {}
         }
       },
+      "EntityFramework/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/5.0.15": {
         "type": "package",
         "dependencies": {
@@ -715,6 +736,9 @@
       "BlazorBattles.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "EntityFramework": "5.0.0"
+        },
         "compile": {
           "bin/placeholder/BlazorBattles.Shared.dll": {}
         },
@@ -757,6 +781,35 @@
         "lib/netstandard2.1/Blazored.Toast.dll",
         "staticwebassets/blazored-toast.css",
         "staticwebassets/blazored-toast.min.css"
+      ]
+    },
+    "EntityFramework/5.0.0": {
+      "sha512": "WYfgJWKg/RjwU8pzZkImD9DsV+J1nqDcIGp1S0/bdnElKBmAaUC2nmq/QQAcco32KyQQWnLgJNiDzIOz2xWFbQ==",
+      "type": "package",
+      "path": "entityframework/5.0.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/App.config.transform",
+        "Content/Web.config.transform",
+        "entityframework.5.0.0.nupkg.sha512",
+        "entityframework.nuspec",
+        "lib/net40/EntityFramework.dll",
+        "lib/net40/EntityFramework.xml",
+        "lib/net45/EntityFramework.dll",
+        "lib/net45/EntityFramework.xml",
+        "tools/EntityFramework.PS3.psd1",
+        "tools/EntityFramework.PowerShell.Utility.dll",
+        "tools/EntityFramework.PowerShell.dll",
+        "tools/EntityFramework.psd1",
+        "tools/EntityFramework.psm1",
+        "tools/Redirect.VS11.config",
+        "tools/Redirect.config",
+        "tools/about_EntityFramework.help.txt",
+        "tools/init.ps1",
+        "tools/install.ps1",
+        "tools/migrate.exe"
       ]
     },
     "Microsoft.AspNetCore.Authorization/5.0.15": {
@@ -1306,6 +1359,7 @@
       "BlazorBattles.Shared >= 1.0.0",
       "Blazored.LocalStorage >= 4.2.0",
       "Blazored.Toast >= 3.2.2",
+      "EntityFramework >= 5.0.0",
       "Microsoft.AspNetCore.Components.Authorization >= 5.0.15",
       "Microsoft.AspNetCore.Components.WebAssembly >= 5.0.15",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 5.0.15",
@@ -1363,6 +1417,10 @@
             "target": "Package",
             "version": "[3.2.2, )"
           },
+          "EntityFramework": {
+            "target": "Package",
+            "version": "[5.0.0, )"
+          },
           "Microsoft.AspNetCore.Components.Authorization": {
             "target": "Package",
             "version": "[5.0.15, )"
@@ -1410,5 +1468,17 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'EntityFramework 5.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "EntityFramework",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }
