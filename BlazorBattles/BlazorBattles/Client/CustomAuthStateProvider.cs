@@ -12,8 +12,11 @@ namespace BlazorBattles.Client
         {
             _localStorageService = localStorageService;
         }
+
         public override async Task<AuthenticationState> GetAuthenticationStateAsync()
         {
+            var state = new AuthenticationState(new ClaimsPrincipal());
+
             if (await _localStorageService.GetItemAsync<bool>("isAuthenitcated"))
             {
                 var identify = new ClaimsIdentity(new[] {
@@ -21,15 +24,12 @@ namespace BlazorBattles.Client
                 }, "test authentication type");
 
                 var user = new ClaimsPrincipal(identify);
-                var state = new AuthenticationState(user);
-
-                NotifyAuthenticationStateChanged(Task.FromResult(state));
-
-                return state;
+                state = new AuthenticationState(user);
             }
 
-            return new AuthenticationState(new ClaimsPrincipal());
+            NotifyAuthenticationStateChanged(Task.FromResult(state));
 
+            return state;
         }
     }
 }
